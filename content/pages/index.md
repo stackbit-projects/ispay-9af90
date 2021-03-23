@@ -11,7 +11,7 @@ sections:
         url: /features
         style: primary
       - label: Contact Us
-        url: 'mailto:'
+        url: 'mailto:rhlasus@gmail.com'
         style: secondary
     align: left
     image: images/hero.svg
