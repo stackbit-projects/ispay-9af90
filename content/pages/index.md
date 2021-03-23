@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: License Renewal Portal
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Powered By : iSara Technologies Private Limited ( A Government of India
+      Recognized Startup)
     actions:
       - label: Learn More
         url: /features
